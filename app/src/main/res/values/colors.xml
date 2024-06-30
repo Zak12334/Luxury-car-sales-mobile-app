@@ -1,0 +1,13 @@
+<resources>
+    <color name="primary">#FF0F3153</color>
+    <color name="primaryDark">#302A08</color>
+    <color name="primaryLight">#E4CE52</color>
+    <color name="textPrimary">#000000</color>
+    <color name="textSecondary">#000000</color>
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="dar_gold">#E4CE52</color>
+    <color name="gold">#C6B343</color>
+    <color name="white">#FFFFFF</color>
+
+
+</resources>
